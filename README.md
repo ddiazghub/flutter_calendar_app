@@ -1,4 +1,4 @@
-# scheduler_app
+# firebase_chat
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
